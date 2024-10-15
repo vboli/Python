@@ -1,0 +1,4 @@
+Hello, this is a second line in new file!Hello, this is a third line in new file! 
+This is additional text.
+Hello, this is a third line in new file!
+Hello, this is a third line in new file!
